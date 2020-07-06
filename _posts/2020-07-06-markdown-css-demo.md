@@ -1,10 +1,9 @@
 ---
 title: Markdown CSS DEMO
-Layout: post
-author: Cotes Chung
+author: 陈钱牛
 date: 2020-07-06 12:33:00 +0800
 categories: [Blogging, Demo]
-tags: [typography]
+tags: [website]
 math: true
 ---
 
