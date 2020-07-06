@@ -5,7 +5,12 @@ date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 math: true
+typora-root-url: ../../zjcqn.github.io
 ---
+
+
+
+![ms-icon-144x144](/assets/imag/posts/ms-icon-144x144.png)
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in here.
 
