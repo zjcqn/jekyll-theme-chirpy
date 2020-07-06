@@ -1,6 +1,6 @@
 ---
-title: Markdown CSS DEMO
-Layout: post
+title: Markdown CSS DEMO2
+layout: post
 author: Cotes Chung
 date: 2020-07-06 12:33:00 +0800
 categories: [Blogging, Demo]
