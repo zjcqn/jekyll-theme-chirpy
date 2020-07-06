@@ -27,21 +27,21 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: zjcqn             # change to your github username
 
-weibo:
-  username: 平民毕昇             # change to your twitter username
+qq:
+  username: x554977058             # change to your twitter username
 
 social:
   name: 陈钱牛                  # it will shows as the copyright owner in Footer
   email: zjcqn163@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # https://twitter.com/username      # change to your twitter homepage
     - https://github.com/zjcqn       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+#google_site_verification: google_meta_tag_verification # change to your verification string
 
 #--------------------------
 
@@ -112,7 +112,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true    # Enable comments in posts.
+      comments: false    # Enable comments in posts.
       toc: true         # Display TOC column in posts.
       location: Post
       breadcrumb:
