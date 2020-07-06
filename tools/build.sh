@@ -119,3 +119,4 @@ main() {
 }
 
 main "$@"
+cp -r ./_site/tags .
