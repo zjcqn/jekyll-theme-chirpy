@@ -4,7 +4,6 @@ author: 陈钱牛
 date: 2020-07-06 9:00:00 +0800
 categories: [Blogging, WebSite]
 tags: [website]
-pin: true
 typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 ---
 
