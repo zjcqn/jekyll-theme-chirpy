@@ -3,7 +3,7 @@ title: 装机配置清单
 author: 陈钱牛
 date: 2020-07-16 22:30:00 +0800
 categories: [Blogging,  Macintosh]
-tags: [Macintosh][computer]
+tags: [Macintosh]
 typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 ---
 
