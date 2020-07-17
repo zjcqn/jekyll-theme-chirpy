@@ -7,8 +7,6 @@ tags: [Macintosh]
 typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 ---
 
-# 装机配置清单
-
 装机配置清单如下，另有500G，SSD一条，预计在500G SSD中装Win10和 Manjaro，在250G SSD中装黑苹果系统，后续还将加一块大容量的SATA SSD的数据盘。
 
 | 项目                         | 1849 |
