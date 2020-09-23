@@ -43,7 +43,7 @@ typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 
 ## 主函数脚本run.sh
 
-```text
+```shell
 |-data/data_url   	#配置数据集存放路径和下载路径
 |-cmd.sh/path.sh  	#线程设置及环境变量初始化
 |-download		#下载数据集
@@ -53,8 +53,8 @@ typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 |   `-local/aishell_data_prep.sh
 |   `-MFCC特征提取部分
 |       `-steps/make_mfcc.sh MFCC脚本
-|       `-sid/compute_vad_decision.sh 计算语音激活检测(端点检测)
-|       `-utils/fix_data_dir.sh 数据修复脚本
+|       `-sid/compute_vad_decision.sh 	#计算语音激活检测(端点检测)
+|       `-utils/fix_data_dir.sh 	#数据修复脚本
 |-训练diag UBM
 |   `-train_diag_ubm.sh 训练ubm脚本
 |-训练full UBM
@@ -66,19 +66,17 @@ typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 |-训练PLDA(概率线性判别分析)模型
 |   `-$train_cmd
 |-测试集数据注册和测试
-|   `-mkdir/cp/cp 创建注册/测试的文件路径，将数据文件放到新的路径下
-|   `-local/split_data_enroll_eval.py 对测试数据路径下的文件进行注册/测试操作
-|   `-local/produce_trials.py  对测试者的语音数据进行测试 
-|   `utils/fix_data_dir.sh 对enroll/eval数据进行数据修复操作
+|   `-mkdir/cp/cp  #创建注册/测试的文件路径，将数据文件放到新的路径下
+|   `-local/split_data_enroll_eval.py 		#对测试数据路径下的文件进行注册/测试操作
+|   `-local/produce_trials.py  		 	#对测试者的语音数据进行测试 
+|   `utils/fix_data_dir.sh 			#对enroll/eval数据进行数据修复操作
 |-提取注册人的ivector
 |   `-sid/extract_ivectors.sh
 |_提取测试者的ivector
 |   `-extract_ivector.sh
 |-计算plda的打分
-|   `-$train_cmd   
-|       `ark/cat/awk
+|   `-ivector-plda-scoring
 |-计算eer
-|   `-awk
 ```
 
 # AISHELL数据集介绍
