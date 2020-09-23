@@ -23,8 +23,8 @@ typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 ```shell
 |—— cmd.sh              # 修改集群多线程版本或本地运行版本
 |—— conf                 
-|   |—— mfcc.conf   		# MFCC参数配置文件
-|    —— vad.conf    		# VAD(语音激活检测)激活配置
+|   |—— mfcc.conf   	# MFCC参数配置文件
+|    —— vad.conf    	# VAD(语音激活检测)激活配置
 |—— data                # 下载的数据集存放路径，run.sh中修改新建的数据下载路径
 |   |—— data_aishell.tgz     
 |    —— resource_aishell.tgz
@@ -35,8 +35,8 @@ typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 |    —— split_data_enroll_eval.py
 |—— path.sh              # 设置环境变量
 |—— README.txt      
-|—— run.sh							 #主脚本，调用cmd.sh和path.sh
-|—— sid -> ../../sre08/v1/sid		# sid,steps,utils中的脚本较为通用，一般可以移植
+|—— run.sh		 #主脚本，调用cmd.sh和path.sh
+|—— sid -> ../../sre08/v1/sid	# sid,steps,utils中的脚本较为通用，一般可以移植
 |—— steps -> ../../wsj/s5/steps
  —— utils -> ../../wsj/s5/utils
 ```
@@ -44,11 +44,11 @@ typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 ## 主函数脚本run.sh
 
 ```text
-|-data/data_url   #配置数据集存放路径和下载路径
-|-cmd.sh/path.sh  #线程设置及环境变量初始化
-|-download		 #下载数据集
-|   `-local/download_and_untar.sh  下载数据集脚本
-|   `-local/download_and_untar.sh   下载字典信息文件脚本
+|-data/data_url   	#配置数据集存放路径和下载路径
+|-cmd.sh/path.sh  	#线程设置及环境变量初始化
+|-download		#下载数据集
+|   `-local/download_and_untar.sh  	#下载数据集脚本
+|   `-local/download_and_untar.sh   	#下载字典信息文件脚本
 |-数据准备阶段
 |   `-local/aishell_data_prep.sh
 |   `-MFCC特征提取部分
