@@ -1,4 +1,13 @@
-# 文件目录结构
+---
+title: Kaldi 工程文件目录结构
+author: 陈钱牛
+date: 2020-09-24 12:00:00 +0800
+categories: [SpeakerRecognition,Kaldi]
+tags: [SpeakerRecognition,Kaldi]
+math: true
+---
+
+
 
 ## data的文件目录结构
 
