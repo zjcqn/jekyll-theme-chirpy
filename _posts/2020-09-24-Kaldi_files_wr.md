@@ -21,7 +21,7 @@ scp,p:data/my.scp
 
 
 
- 从 ``Tabla`` 中读数据的程序需要一个``rspecifier``输入，该字符串指明了如何读 取索引数据;而写数据到 ``Table``  中的程序需要一个``wspecifier``输入，该字符串 指示如何写数据。这两个字符串指出是否需要 ``scritpt`` 或 ``archive``  文件，文件位置， 以及不同的选项。常用的``rspecifiers``有``ark:-``，表示从标准的输入中读取 ``archive``  数据;而``scp:foo.scp``表示 ``script``文件``foo.scp``会告诉我们从哪里去读取数据(因为``scp``文件只存了路径)。  下面几点需要牢记: 
+ 从 ``Tabla`` 中读数据的程序需要一个``rspecifier``输入，该字符串指明了如何读 取索引数据;而写数据到 ``Table``  中的程序需要一个``wspecifier``输入，该字符串 指示如何写数据。这两个字符串指出是否需要 ``scritpt`` 或 ``archive``  文件，文件位置， 以及不同的选项。常用的``rspecifiers``有``ark:-``，表示从标准的输入中读取 ``archive``  数据;而``scp:foo.scp``表示 ``script``文件``foo.scp``会告诉我们从哪里去读取数据(因为``scp``文件只存了路径)。  下面几点需要牢记 : 
 
 - 冒号后面的部分被解释为``wxfilename``或``rxfilename``(与 Non-table I/O 中一样)，这意味着管道和标准的输入/输出均可支持。 
 - 一个 ``Table`` 通常只包含一种类型的对象(例如浮点型矩阵) 

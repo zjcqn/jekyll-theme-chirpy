@@ -16,7 +16,7 @@ typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 4. 训练和提取ivector
 5. 训练PLDA模型
 6. 划分训练集（test）为enroll（注册集）和eval（测试集）
-7. 提取enroll和eval的ivector并计算PLDA结果
+7. 提取enroll和eval的ivector并计算PLDA结果 
 
 ## 目录结构
 

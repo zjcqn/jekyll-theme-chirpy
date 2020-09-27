@@ -7,12 +7,10 @@ tags: [SpeakerRecognition,Kaldi]
 math: true
 ---
 
-
-
 ## data的文件目录结构
 
 ```shell
-data
+data 
 ├── local
 │   ├── dev
 │   ├── test
@@ -70,7 +68,6 @@ data
 ## exp的文件目录
 
 ```shell
-.
 |-- diag_ubm_1024			#files about diag_UBM
 |-- extractor_1024			#files about ivector extractor
 |-- full_ubm_1024			#files about full_UBM
@@ -80,4 +77,3 @@ data
 |-- make_mfcc				#mfcc log files
 -- trials_out				#the result of plda_score
 ```
-

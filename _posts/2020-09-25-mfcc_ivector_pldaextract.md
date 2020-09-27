@@ -12,7 +12,7 @@ math: true
 
 - 对应音频的mfcc
 - 从测试集数据集到plda得分的全过程步骤
-- plda得分
+- plda score
 
 # 提取MFCC
 
