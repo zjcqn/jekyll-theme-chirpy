@@ -2,7 +2,7 @@
 title: Markdown CSS DEMO
 author: 陈钱牛
 date: 2020-07-06 12:33:00 +0800
-categories: [Blogging, Demo]
+categories: [Blogging,Demo]
 tags: [website]
 math: true
 typora-root-url: ..

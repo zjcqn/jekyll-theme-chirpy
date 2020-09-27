@@ -2,7 +2,7 @@
 title: My First Bloooooog!
 author: 陈钱牛
 date: 2020-07-06 9:00:00 +0800
-categories: [Blogging, WebSite]
+categories: [Blogging,WebSite]
 tags: [website]
 typora-root-url: ..
 ---
