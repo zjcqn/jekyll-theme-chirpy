@@ -5,6 +5,7 @@ date: 2020-07-06 12:33:00 +0800
 categories: [Blogging, Demo]
 tags: [website]
 math: true
+typora-root-url: ..
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in here.
