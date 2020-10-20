@@ -8,12 +8,11 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-  type: qq
-  icon: 'fab fa-qq'
+  type: twitter
+  icon: 'fab fa-twitter'
 -
   type: email
-  icon: 'fa fa-envelope'
-  #icon: 'fas fa-envelope'
+  icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
   type: rss

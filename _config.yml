@@ -14,7 +14,6 @@ tagline: 读万卷书，行万里路              # it will display as the sub-t
 
 description: >-                        # used by seo meta and the atom feed
   An awsome description!
-
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'http://zjcqn.github.io'
 
@@ -85,10 +84,14 @@ paginate: 10
 
 markdown: kramdown
 
+
+mathjax: true
+
 highlighter: rouge
 
 kramdown:
   input: GFM
+  use_coderay: true
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: 'highlight'

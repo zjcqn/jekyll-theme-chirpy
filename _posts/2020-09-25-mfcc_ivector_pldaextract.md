@@ -2,7 +2,7 @@
 title: 提取MFCC、IVECTOR和PLDA得分
 author: 陈钱牛
 date: 2020-09-25 12:33:00 +0800
-categories: [SpeakerRecognition,Kaldi]
+categories: [SRS,Kaldi]
 tags: [Kaldi]
 math: true
 ---

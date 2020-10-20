@@ -2,8 +2,8 @@
 title: Kaldi说话人识别的实践——Aishell v1
 author: 陈钱牛
 date: 2020-09-23 16:20:00 +0800
-categories: [SpeakerRecognition,AdversarialAttack]
-tags: [SpeakerRecognition]
+categories: [SRS,Kaldi]
+tags: [Kaldi]
 typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
 math: true
 ---

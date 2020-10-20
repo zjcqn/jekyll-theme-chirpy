@@ -2,9 +2,9 @@
 title: Kaldi常用的文件操作
 author: 陈钱牛
 date: 2020-09-24 10:20:00 +0800
-categories: [SpeakerRecognition]
-tags: [SpeakerRecognition]
-typora-root-url: /Users/cqn/MyBlog/zjcqn.github.io
+categories: [SRS,Kaldi]
+tags: [Kaldi]
+typora-root-url: ..
 ---
 
 

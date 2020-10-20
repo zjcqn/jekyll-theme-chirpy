@@ -119,5 +119,3 @@ main() {
 }
 
 main "$@"
-rm -rf ./tags
-cp -r ./_site/tags .
