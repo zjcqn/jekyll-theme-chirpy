@@ -3,7 +3,7 @@ title: 在python脚本中运行shell脚本
 author: 陈钱牛
 date: 2020-10-24 19:33:00 +0800
 categories: [Python]
-tags: [Python]
+tags: [Python,shell]
 math: true
 typora-root-url: ..
 ---
