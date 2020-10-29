@@ -2,7 +2,7 @@
 title: Kaldi 工程文件目录结构
 author: 陈钱牛
 date: 2020-09-24 12:00:00 +0800
-categories: [SRS,Kaldi]
+categories: [Study,SRS,Kaldi]
 tags: [Kaldi]
 math: true
 ---
