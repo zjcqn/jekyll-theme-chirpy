@@ -58,7 +58,7 @@ $$
 $$
 
 
-![image-20201030130006571](file:///Users/cqn/MyBlog/zjcqn.github.io/assets/img/posts/2020-10-30-Paper_adv_explain/image-20201030130006571.png?lastModify=1604035556)
+![image-20201030130006571](/assets/img/posts/2020-10-30-Paper_adv_explain/image-20201030130006571.png?lastModify=1604035556)
 
 
 
