@@ -1,5 +1,5 @@
 ---
-title: Paper 对抗性样本攻击的成因和提出FGSM
+title: Paper|对抗性样本攻击的成因和提出FGSM
 author: 陈钱牛
 date: 2020-10-30 15:33:00 +0800
 categories: [Study,adversarial_attack]
