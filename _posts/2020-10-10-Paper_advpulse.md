@@ -1,5 +1,5 @@
 ---
-title: Paper AdvPulse 流式压秒级无同步的声纹识别攻击
+title: Paper｜AdvPulse 流式压秒级无同步的声纹识别攻击
 author: 陈钱牛
 date: 2020-10-10 12:33:00 +0800
 categories: [Study,adversarial_attack]
