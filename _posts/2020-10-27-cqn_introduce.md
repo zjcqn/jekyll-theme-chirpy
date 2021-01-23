@@ -1,5 +1,5 @@
 ---
-title: 个人工作情况介绍
+title: Other | 个人工作情况介绍
 author: 陈钱牛
 date: 2020-10-28 19:33:00 +0800
 categories: [Others]

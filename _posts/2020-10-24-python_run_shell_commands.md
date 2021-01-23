@@ -1,5 +1,5 @@
 ---
-title: Python 脚本中运行shell脚本
+title: Python | Python 脚本中运行shell脚本
 author: 陈钱牛
 date: 2020-10-24 19:33:00 +0800
 categories: [Code,Python]

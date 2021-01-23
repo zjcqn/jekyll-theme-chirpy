@@ -1,5 +1,5 @@
 ---
-title: Kaldi说话人识别的实践——Aishell v1
+title: Kaldi | 说话人识别的实践——Aishell v1
 author: 陈钱牛
 date: 2020-09-23 16:20:00 +0800
 categories: [Study,SRS,Kaldi]

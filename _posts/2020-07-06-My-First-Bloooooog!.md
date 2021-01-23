@@ -1,5 +1,5 @@
 ---
-title: 我的 Bloooooog!
+title: Other | 我的 Bloooooog!
 author: 陈钱牛
 date: 2020-07-06 9:00:00 +0800
 categories: [Others]
