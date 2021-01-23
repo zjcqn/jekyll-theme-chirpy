@@ -1,7 +1,7 @@
 ---
 title: Study｜Survey of Speaker Recognition System in NN Method
 author: 陈钱牛
-date: 2020-10-30 15:33:00 +0800
+date: 2021-1-23 15:33:00 +0800
 categories: [Study]
 tags: [SRS]
 math: true
